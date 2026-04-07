@@ -42,7 +42,7 @@ class Hero {
         }
 
         if (this.type.toLowerCase() === "monge") {
-            return `${this.type} atacou usando artes maciais!`
+            return `${this.type} atacou usando artes marciais!`
         }
 
         return `${this.type} atacou usando shuriken!`
